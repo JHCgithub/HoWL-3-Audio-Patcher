@@ -4,7 +4,7 @@ Not fully tested but seems to work fine
 
 Instructions:
 
-Real simple like. We just use HoWL-1 to repair HoWL-3's missing Subheader Submodes based on file matching/positioning and Form type
+Real simple like. We just use HoWL-1 to repair HoWL-3's missing Subheader Submodes based on Directory diffing and traversal, file matching/positioning, and Form type
 
 1) Grab your HoWL-1.bin and your broken HoWL-3.bin and place them into the same folder;
 
