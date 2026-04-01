@@ -22,3 +22,6 @@ Real simple like. We just use HoWL-1 to repair HoWL-3's missing Subheader Submod
 5) ????
 
 6) enjoy
+
+
+Hacked this release together running it on only two machines so if it doesn't run for you. Please let me know what error you're getting. Probably some annoying dependancy I just need to bundle in there
